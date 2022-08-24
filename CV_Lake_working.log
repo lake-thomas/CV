@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  24 AUG 2022 08:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.8.24)  24 AUG 2022 09:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -475,21 +475,21 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 AED: lastpage setting LastPage
 [3] (./CV_Lake_working.aux)
 Package rerunfilecheck Info: File `CV_Lake_working.out' has not changed.
-(rerunfilecheck)             Checksum: 636BE712BF04B58352C09A995037B549;2790.
+(rerunfilecheck)             Checksum: 41BAE90DDDF43E7702DA4DE179962307;2265.
  ) 
 Here is how much of TeX's memory you used:
- 13472 strings out of 479489
- 211082 string characters out of 5873243
- 526657 words of memory out of 5000000
- 31907 multiletter control sequences out of 15000+600000
+ 13456 strings out of 479489
+ 210844 string characters out of 5873243
+ 526494 words of memory out of 5000000
+ 31899 multiletter control sequences out of 15000+600000
  506056 words of font info for 82 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,11n,76p,1204b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 70i,12n,76p,1204b,441s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk>{c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Lake_working.pdf (3 pages, 104594 bytes).
+Output written on CV_Lake_working.pdf (3 pages, 102941 bytes).
 PDF statistics:
- 195 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 42 named destinations out of 1000 (max. 500000)
- 153 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 171 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 34 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,7 +5,7 @@ email: Lakex055@umn.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: C:/users/thomas/desktop/CV-main/svm-latex-cv.tex
+    template: C:/users/thomas/desktop/CV/svm-latex-cv.tex
   html_document:
     df_print: paged
   word_document: default
@@ -28,7 +28,7 @@ Thank you Steve! -->
 
 # Education
 **University of Minnesota**, Minneapolis, MN, USA \hfill 2018-present  
-PhD Candidate, Plant & Microbial Biology
+PhD Candidate, Plant & Microbial Biology  
 Advisor: Dr. David Moeller
 
 **University of Minnesota**, Minneapolis, MN, USA \hfill 2013-2017   
@@ -38,28 +38,28 @@ B.S., Conservation Biology, Minor in Geographic Information Sciences
 
 # Research & Professional Experience
 **Graduate Research Assistant**, University of Minnesota \hfill 2018-present  
-Minneapolis, MN, USA
-PI: Dr. David Moeller 
-Thesis title:  Predicting Biological Invasions & Population Genetics of Leafy Spurge (*Euphorbia virgata*)  
+Minneapolis, MN, USA  
+PI: Dr. David Moeller  
+Thesis title:  Predicting Biological Invasions & Population Genetics of Leafy Spurge (*Euphorbia virgata*).
   
 **Researcher I**, USDA ARS Cereal Disease Lab \hfill 2018  
-St. Paul, MN, USA 
-PI: Dr. James Kolmer
-Predicting leaf rust (*Puccinia triticina*) resistance in U.S. spring and winter wheat clutivars
+St. Paul, MN, USA  
+PI: Dr. James Kolmer  
+Predicting leaf rust (*Puccinia triticina*) resistance in U.S. spring and winter wheat clutivars.
 
-**Undergraduate Teaching Assistant**, University of Minnesota \hfill 2017-2018
-Minneapolis, MN, USA
+**Undergraduate Teaching Assistant**, University of Minnesota \hfill 2017-2018  
+Minneapolis, MN, USA  
 PI: Dr. Fumiaki Katagiri  
 Identifying genomic QTL involved in plant immune signaling with (*Arabidopsis*) and microbial pathogens.
 
 **Undergraduate Researcher**, University of Minnesota \hfill 2016-2017  
-Minneapolis, MN, USA
-PI: Dr. David Moeller
+Minneapolis, MN, USA  
+PI: Dr. David Moeller  
 Distribution modeling and predictions of range expansion for invasive species with R and ArcGIS.
 
 **Undergraduate Researcher**, University of Minnesota \hfill 2015-2016  
 Minneapolis, MN, USA
-PI: Dr. Changbin Chen 
+PI: Dr. Changbin Chen  
 Mechanisms of DNA break repair, homologous recombination, genome organization and evolution.
 \vspace{4pt}
 
@@ -68,12 +68,12 @@ Mechanisms of DNA break repair, homologous recombination, genome organization an
 ## Scholarships & Awards
 University of Minnesota Doctoral Dissertation Research Fellowship ($25,000) \hfill 2022  
 University of Minnesota Bell Museum Dayton Natural History Award ($2,500) \hfill 2020  
-Botanical Society of America Graduate Student Research Award ($1,500) \hfill 2021
+Botanical Society of America Graduate Student Research Award ($1,500) \hfill 2021  
 
 ## Research Grants
-Satellite Imagery, Earth Observation Data, European Space Agency ($12000) \hfill 2020
-NVIDIA Accelerated Data Science Grant Program ($1000) \hfill 2019
-Google Cloud Platform Research Grant ($1000) \hfill 2022
+Earth Observation Data, European Space Agency ($12000) \hfill 2020  
+NVIDIA Accelerated Data Science Grant Program ($1000) \hfill 2019  
+Google Cloud Platform Research Grant ($1000) \hfill 2022  
 \vspace{4pt}
 
 
@@ -81,46 +81,48 @@ Google Cloud Platform Research Grant ($1000) \hfill 2022
 # Publications
 ## Journal Articles
 4\.&nbsp;&nbsp;
-**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation.[https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation. [https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)
 
 3\.&nbsp;&nbsp;
-Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. Journal of Biogeography, 48(7), 1693-1705.[https://doi.org/10.1111/jbi.14105](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14105)
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. Journal of Biogeography, 48(7), 1693-1705. [https://doi.org/10.1111/jbi.14105](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14105)
 
 2\.&nbsp;&nbsp;
-**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. Diversity and Distributions, 26(12), 1767-1779.[ https://doi.org/10.1111/ddi.13161](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13161)
+**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. Diversity and Distributions, 26(12), 1767-1779. [https://doi.org/10.1111/ddi.13161](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13161)
 
 1\.&nbsp;&nbsp;
-Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Scientific reports, 9(1), 1-12.[https://doi.org/10.1038/s41598-018-38054-9](https://www.nature.com/articles/s41598-018-38054-9)
+Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Scientific reports, 9(1), 1-12. [https://doi.org/10.1038/s41598-018-38054-9](https://www.nature.com/articles/s41598-018-38054-9)
 
 ## Non-refereed Articles
 1\.&nbsp;&nbsp;
-Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2019). MITPPC Practical Guide to Species Distribution Modeling in R. Minnesota Invasive Terrestrial Plants and Pests Center.
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2019). MITPPC Practical Guide to Species Distribution Modeling in R. Minnesota Invasive Terrestrial Plants and Pests Center.  
 \vspace{4pt}
 
 
 
 # Invited Presentations
 2\.&nbsp;&nbsp;
-**Lake, T. A.** Image segmentation approaches in ArcGIS. Presentation. American Society of Photogrammetry and Remote Sensing Student Chapter. University of Minnesota. 11/7/2021.
+**Lake, T. A.** Image segmentation approaches in ArcGIS. Presentation. American Society of Photogrammetry and Remote Sensing Student Chapter. University of Minnesota. 11/7/2021.  
 
 1\.&nbsp;&nbsp;
-**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/1/2019.
+**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/1/2019.  
 
 
 # Presentations
-2\.&nbsp;&nbsp;
-**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/17/2022. 
+5\.&nbsp;&nbsp;
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Presentation. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/25/2022.  
 
-1\.&nbsp;&nbsp;
+4\.&nbsp;&nbsp;
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/17/2022.  
+
+3\.&nbsp;&nbsp;
 **Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. American Society of Photogrammetry and Remote Sensing Virtual Conference. 3/25/2022.  
 
+2\.&nbsp;&nbsp;
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Presentation. Joint Summit of the Minnesota Terrestrial Invasive Plants and Pests Center and Minnesota Department of Agriculture. 2/10/2019.  
 
-# Workshops
-1\.&nbsp;&nbsp;
-Filazzola, A., **Breitbart, S.** (2021). Fast-R: Improving the Reproducibility and Efficiency of your Coding. Santa Barbara R Meetup. https://afilazzola.github.io/SBMeetup2021-FastR/  
+1\.&nbsp;&nbsp; 
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Poster presentation. Joint Meeting of the Upper Midwest Invasive Species Conference and the North American Invasive Species Management Association. 10/18/2018.  
 \vspace{4pt}
-
-
 
 # Teaching & Supervisory Experience
 ## Teaching
@@ -132,24 +134,16 @@ Filazzola, A., **Breitbart, S.** (2021). Fast-R: Improving the Reproducibility a
 
 
 # Community Involvement
-## Reviewer for
-- *Ecology & Evolution*, *Functional Ecology*, *Journal of Urban Ecology*  
 
 ## Departmental Service
-**Undergraduate Mentor** cfans
-**Undergraduate Mentor** cbs
-**Volunteer** animal rehab shelter
-
-## Academic Service
+**Undergraduate Mentor** 2018, 2019, 2020, 2021, 2022
 
 ## Organizations & Memberships
-**Citizen Scientist**, iNaturalist Contributor \hfill 2020-present
-**Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present
-**Member**, Ecological Society of America (ESA)  \hfill 2021-present
-**Member**, American Society of Photogrammetry and Remote Sensing (ASPRS)  \hfill 2020-present  
+**Citizen Scientist**, iNaturalist Contributor \hfill 2020-present  
+**Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present  
+**Member**, Ecological Society of America (ESA)  \hfill 2021-present  
+**Member**, American Society of Photogrammetry and Remote Sensing (ASPRS)  \hfill 2020-present    
 **Chapter Coordinator**, American Society of Photogrammetry and Remote Sensing - University of Minnesota Chapter  \hfill 2020-2022  
-
-## Science Communication
 
 
 <!-- ## Skills -->
