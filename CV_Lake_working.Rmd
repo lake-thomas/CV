@@ -1,0 +1,159 @@
+---
+title: "CV"
+author: "Thomas A. Lake"
+email: Lakex055@umn.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: C:/users/thomas/desktop/CV-main/svm-latex-cv.tex
+  html_document:
+    df_print: paged
+  word_document: default
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+github: lake-thomas
+jobtitle: PhD Candidate, University of Minnesota
+# keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+address: Department of Plant & Microbial Biology
+# updated: no
+urlcolor: blue
+web: cbs.umn.edu/academics/departments/pmb
+---
+<!-- I am using Steven V. Miller's CV template, available here: https://github.com/svmiller/svm-r-markdown-templates
+Thank you Steve! -->
+
+# Education
+**University of Minnesota**, Minneapolis, MN, USA \hfill 2018-present  
+PhD Candidate, Plant & Microbial Biology
+Advisor: Dr. David Moeller
+
+**University of Minnesota**, Minneapolis, MN, USA \hfill 2013-2017   
+B.S., Conservation Biology, Minor in Geographic Information Sciences
+\vspace{4pt}
+
+
+# Research & Professional Experience
+**Graduate Research Assistant**, University of Minnesota \hfill 2018-present  
+Minneapolis, MN, USA
+PI: Dr. David Moeller 
+Thesis title:  Predicting Biological Invasions & Population Genetics of Leafy Spurge (*Euphorbia virgata*)  
+  
+**Researcher I**, USDA ARS Cereal Disease Lab \hfill 2018  
+St. Paul, MN, USA 
+PI: Dr. James Kolmer
+Predicting leaf rust (*Puccinia triticina*) resistance in U.S. spring and winter wheat clutivars
+
+**Undergraduate Teaching Assistant**, University of Minnesota \hfill 2017-2018
+Minneapolis, MN, USA
+PI: Dr. Fumiaki Katagiri  
+Identifying genomic QTL involved in plant immune signaling with (*Arabidopsis*) and microbial pathogens.
+
+**Undergraduate Researcher**, University of Minnesota \hfill 2016-2017  
+Minneapolis, MN, USA
+PI: Dr. David Moeller
+Distribution modeling and predictions of range expansion for invasive species with R and ArcGIS.
+
+**Undergraduate Researcher**, University of Minnesota \hfill 2015-2016  
+Minneapolis, MN, USA
+PI: Dr. Changbin Chen 
+Mechanisms of DNA break repair, homologous recombination, genome organization and evolution.
+\vspace{4pt}
+
+
+# Honors & Awards
+## Scholarships & Awards
+University of Minnesota Doctoral Dissertation Research Fellowship ($25,000) \hfill 2022  
+University of Minnesota Bell Museum Dayton Natural History Award ($2,500) \hfill 2020  
+Botanical Society of America Graduate Student Research Award ($1,500) \hfill 2021
+
+## Research Grants
+Satellite Imagery, Earth Observation Data, European Space Agency ($12000) \hfill 2020
+NVIDIA Accelerated Data Science Grant Program ($1000) \hfill 2019
+Google Cloud Platform Research Grant ($1000) \hfill 2022
+\vspace{4pt}
+
+
+
+# Publications
+## Journal Articles
+4\.&nbsp;&nbsp;
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation.[https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)
+
+3\.&nbsp;&nbsp;
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. Journal of Biogeography, 48(7), 1693-1705.[https://doi.org/10.1111/jbi.14105](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14105)
+
+2\.&nbsp;&nbsp;
+**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. Diversity and Distributions, 26(12), 1767-1779.[ https://doi.org/10.1111/ddi.13161](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13161)
+
+1\.&nbsp;&nbsp;
+Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Scientific reports, 9(1), 1-12.[https://doi.org/10.1038/s41598-018-38054-9](https://www.nature.com/articles/s41598-018-38054-9)
+
+## Non-refereed Articles
+1\.&nbsp;&nbsp;
+Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2019). MITPPC Practical Guide to Species Distribution Modeling in R. Minnesota Invasive Terrestrial Plants and Pests Center.
+\vspace{4pt}
+
+
+
+# Invited Presentations
+2\.&nbsp;&nbsp;
+**Lake, T. A.** Image segmentation approaches in ArcGIS. Presentation. American Society of Photogrammetry and Remote Sensing Student Chapter. University of Minnesota. 11/7/2021.
+
+1\.&nbsp;&nbsp;
+**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/1/2019.
+
+
+# Presentations
+2\.&nbsp;&nbsp;
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/17/2022. 
+
+1\.&nbsp;&nbsp;
+**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. American Society of Photogrammetry and Remote Sensing Virtual Conference. 3/25/2022.  
+
+
+# Workshops
+1\.&nbsp;&nbsp;
+Filazzola, A., **Breitbart, S.** (2021). Fast-R: Improving the Reproducibility and Efficiency of your Coding. Santa Barbara R Meetup. https://afilazzola.github.io/SBMeetup2021-FastR/  
+\vspace{4pt}
+
+
+
+# Teaching & Supervisory Experience
+## Teaching
+*University of Minnesota*  
+**Graduate Teaching Assistant**, Plant, Algal and Fungal Diversity and Adaptation \hfill 2019, 2020
+**Graduate Teaching Assistant**, Foundations of Biology (BIOL1961) \hfill 2019  
+**Undergraduate Teaching Assistant**, Plant Immunity (PBIO4994) \hfill 2018  
+\vspace{4pt}
+
+
+# Community Involvement
+## Reviewer for
+- *Ecology & Evolution*, *Functional Ecology*, *Journal of Urban Ecology*  
+
+## Departmental Service
+**Undergraduate Mentor** cfans
+**Undergraduate Mentor** cbs
+**Volunteer** animal rehab shelter
+
+## Academic Service
+
+## Organizations & Memberships
+**Citizen Scientist**, iNaturalist Contributor \hfill 2020-present
+**Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present
+**Member**, Ecological Society of America (ESA)  \hfill 2021-present
+**Member**, American Society of Photogrammetry and Remote Sensing (ASPRS)  \hfill 2020-present  
+**Chapter Coordinator**, American Society of Photogrammetry and Remote Sensing - University of Minnesota Chapter  \hfill 2020-2022  
+
+## Science Communication
+
+
+<!-- ## Skills -->
+<!-- **Languages and Frameworks**: R (including base, tidyverse, modelling, visualization), Github, Markdown, Python, SQL, HTML, Bash -->
+<!-- **Code**: R, python, html, bash -->
+<!-- **Statistics**: Linear models, mixed models, foundational statistics (e.g. anovas,  etc), machine learning. -->
+<!-- Version control (git/Github), High performance computing, Data management -->
