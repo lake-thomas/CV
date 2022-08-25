@@ -55,12 +55,12 @@ Identifying genomic QTL involved in plant immune signaling with (*Arabidopsis*) 
 **Undergraduate Researcher**, University of Minnesota \hfill 2016-2017  
 Minneapolis, MN, USA  
 PI: Dr. David Moeller  
-Distribution modeling and predictions of range expansion for invasive species with R and ArcGIS.
+Distribution modeling and predictions of range expansion for invasive species.
 
 **Undergraduate Researcher**, University of Minnesota \hfill 2015-2016  
 Minneapolis, MN, USA
 PI: Dr. Changbin Chen  
-Mechanisms of DNA break repair, homologous recombination, genome organization and evolution.
+Mechanisms of DNA break repair, homologous recombination, and genome organization.
 \vspace{4pt}
 
 
@@ -68,12 +68,16 @@ Mechanisms of DNA break repair, homologous recombination, genome organization an
 ## Scholarships & Awards
 University of Minnesota Doctoral Dissertation Research Fellowship ($25,000) \hfill 2022  
 University of Minnesota Bell Museum Dayton Natural History Award ($2,500) \hfill 2020  
-Botanical Society of America Graduate Student Research Award ($1,500) \hfill 2021  
+Botanical Society of America Graduate Student Research Award ($1,500) \hfill 2021
+
 
 ## Research Grants
 Earth Observation Data, European Space Agency ($12000) \hfill 2020  
 NVIDIA Accelerated Data Science Grant Program ($1000) \hfill 2019  
 Google Cloud Platform Research Grant ($1000) \hfill 2022  
+Minnesota Division Izaak Walton League ($1000) \hfill 2017  
+Undergraduate Research Opportuntiy Program ($3600) \hfill 2015, 2016  
+Conservation Biology Department Travel Fellowship ($600) \hfill 2016  
 \vspace{4pt}
 
 
@@ -143,7 +147,7 @@ Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution 
 **Member**, Society for the Study of Evolution (SSE)  \hfill 2021-present  
 **Member**, Ecological Society of America (ESA)  \hfill 2021-present  
 **Member**, American Society of Photogrammetry and Remote Sensing (ASPRS)  \hfill 2020-present    
-**Chapter Coordinator**, American Society of Photogrammetry and Remote Sensing - University of Minnesota Chapter  \hfill 2020-2022  
+**Chapter Coordinator**, Am. Soc. of Photogrammetry and Remote Sensing - University of Minnesota Chapter  \hfill 2020-2022  
 
 
 <!-- ## Skills -->
