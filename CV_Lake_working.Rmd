@@ -76,7 +76,7 @@ Earth Observation Data, European Space Agency ($12000) \hfill 2020
 NVIDIA Accelerated Data Science Grant Program ($1000) \hfill 2019  
 Google Cloud Platform Research Grant ($1000) \hfill 2022  
 Minnesota Division Izaak Walton League ($1000) \hfill 2017  
-Undergraduate Research Opportuntiy Program ($3600) \hfill 2015, 2016  
+Undergraduate Research Opportunity Program ($3600) \hfill 2015, 2016  
 Conservation Biology Department Travel Fellowship ($600) \hfill 2016  
 \vspace{4pt}
 
