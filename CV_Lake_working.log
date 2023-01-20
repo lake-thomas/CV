@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.16)  19 JAN 2023 08:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  26 MAR 2023 11:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_Lake_working.tex
 (./CV_Lake_working.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2022-12-17> (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-01-16> (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
@@ -153,13 +153,13 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@olf=\skip60
 \f@nch@O@orf=\skip61
 ) (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-12-17 L3 programming layer (loader) 
+Package: expl3 2023-01-16 L3 programming layer (loader) 
 (c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-10-26 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box53
 ))
-Package: l3keys2e 2022-12-17 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count275
@@ -492,25 +492,55 @@ LaTeX Font Info:    Trying to load font information for T1+ppl on input line 131
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) [1
 
-{c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] 
+{c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 428--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 435--440
+
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 442--446
+\T1/pplj/m/n/10 Ter-res-trial Plants and Pest
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 442--446
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--453
+
+ []
+
+
+Overfull \hbox (6.63pt too wide) in paragraph at lines 427--454
+[][] [] [] [] 
+ []
+
+
 AED: lastpage setting LastPage
 [3] (./CV_Lake_working.aux)
 Package rerunfilecheck Info: File `CV_Lake_working.out' has not changed.
-(rerunfilecheck)             Checksum: 13575B6C826E413D5770A56FBA4D8538;1042.
+(rerunfilecheck)             Checksum: B05A060EFD87922826E6C58537685BCF;948.
  ) 
 Here is how much of TeX's memory you used:
- 13927 strings out of 478053
- 222390 string characters out of 5839226
- 1868787 words of memory out of 5000000
+ 13923 strings out of 478051
+ 222346 string characters out of 5839183
+ 1870324 words of memory out of 5000000
  33806 multiletter control sequences out of 15000+600000
  554820 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,77p,1204b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CV_Lake_working.pdf (3 pages, 86183 bytes).
+Output written on CV_Lake_working.pdf (3 pages, 83355 bytes).
 PDF statistics:
- 127 PDF objects out of 1000 (max. 8388607)
- 86 compressed objects within 1 object stream
- 18 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 80 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
