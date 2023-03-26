@@ -95,11 +95,8 @@ Grants, Fellowships, \& Awards
 &nbsp;&nbsp;&nbsp;&nbsp; $13,500 equivalent in Google Cloud research credits.  
 
 **Hatch Grant**, USDA National Institute of Food and Agriculture (PI: D. Moeller) \hfill 2021-2023  
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp; "Remote sensing biological invasions: Using satellite imagery to detect and monitor  
-=======
 &nbsp;&nbsp;&nbsp;&nbsp; $65000. "Remote sensing biological invasions: Using satellite imagery to detect and monitor  
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 &nbsp;&nbsp;&nbsp;&nbsp; leafy spurge population dynamics across the Northern Great Plains"  
 &nbsp;&nbsp;&nbsp;&nbsp; Contributed to grant writing and submission, awarded $65,000 for research.  
 
@@ -157,15 +154,10 @@ Publications \& Presentations
 
 # Manuscripts in Prep
 
-<<<<<<< HEAD
 2\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (in-prep). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge.  
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Inferring invasive species population dynamics with time-series satellite imagery approaches.  
-=======
-2\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Rapid evolution and niche expansion despite losses of genetic variation during invasion in the polyploid plant, leafy spurge.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Inference of invasive species population dynamics with time series satellite imagery.  
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2023). Using satellite imagery to quantify population dynamics of leafy spurge and build predicitive models of range shifts.  
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 
 # Selected Presentations
 
@@ -214,15 +206,7 @@ Service \& Outreach
 
 &nbsp;&nbsp;&nbsp;&nbsp; American Society of Photogrammetry and Remote Sensing Student Chapter, Coordinator \hfill 2020-present  
 
-<<<<<<< HEAD
 &nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota CFANS Mentor Program Matching Committee \hfill 2022-present  
-=======
-&nbsp;&nbsp;&nbsp;&nbsp; Ecological Society of America (ESA), Member \hfill 2021-present  
-
-&nbsp;&nbsp;&nbsp;&nbsp; American Society of Photogrammetry and Remote Sensing (ASPRS), Member \hfill 2020-present  
-
-&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota CFANS Mentor Program Matching Committee, Member \hfill 2021-present  
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 
 &nbsp;&nbsp;&nbsp;&nbsp; Community Scientist, iNaturalist Contributor \hfill 2018-present  
 
@@ -241,49 +225,25 @@ References
 \end{center}
 \vspace{4pt}
 
-\begin{minipage}[t]{0.25\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
 David Moeller\\
 Professor\\
 Plant and Microbial Biology\\
 University of Minnesota\\
 moeller@umn.edu\\
-<<<<<<< HEAD
-=======
-(612) 624-1037\\
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 \end{minipage}
-\begin{minipage}[t]{0.25\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
 Lex Flagel\\
+Senior Data Scientist\\
+Gencove\\
 Adjunct Professor\\
 Plant and Microbial Biology\\
 University of Minnesota\\
-<<<<<<< HEAD
 flag0010@umn.edu\\
-=======
-moeller@umn.edu\\
-(636) 328-5376\\
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 \end{minipage}
-\begin{minipage}[t]{0.25\textwidth}
+\begin{minipage}[t]{0.33\textwidth}
 Rob Venette\\
 Adjunct Associate Professor\\
 Director, Minnesota Invasive Terrestrial Plants and Pest Center\\
 venet001@umn.edu\\
-<<<<<<< HEAD
-=======
-(612) 624-3636\\
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
 \end{minipage}
-\begin{minipage}[t]{0.25\textwidth}
-Yaniv Brandvain\\
-Associate Professor\\
-Plant and Microbial Biology\\
-University of Minnesota\\
-ybrandva@umn.edu\\
-<<<<<<< HEAD
-=======
-(612) 624-4375
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
-\end{minipage}
-
-

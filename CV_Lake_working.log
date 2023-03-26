@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  26 MAR 2023 11:29
-=======
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  19 JAN 2023 19:04
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.19)  26 MAR 2023 11:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,53 +493,18 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) [1
 
 {c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 428--433
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 433--439
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
+Underfull \hbox (badness 10000) in paragraph at lines 431--436
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 435--440
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 441--447
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
+Underfull \hbox (badness 10000) in paragraph at lines 438--445
 
  []
 
 
-<<<<<<< HEAD
-Underfull \hbox (badness 1226) in paragraph at lines 442--446
-=======
-Underfull \hbox (badness 1226) in paragraph at lines 449--454
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
-\T1/pplj/m/n/10 Ter-res-trial Plants and Pest
- []
+Underfull \hbox (badness 10000) in paragraph at lines 447--451
 
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 442--446
-=======
-Underfull \hbox (badness 10000) in paragraph at lines 449--454
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
-
- []
-
-
-<<<<<<< HEAD
-Underfull \hbox (badness 10000) in paragraph at lines 448--453
-
- []
-
-
-Overfull \hbox (6.63pt too wide) in paragraph at lines 427--454
-=======
-Overfull \hbox (6.63pt too wide) in paragraph at lines 432--463
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
-[][] [] [] [] 
  []
 
 
@@ -555,23 +516,16 @@ Package rerunfilecheck Info: File `CV_Lake_working.out' has not changed.
 Here is how much of TeX's memory you used:
  13923 strings out of 478051
  222346 string characters out of 5839183
- 1870324 words of memory out of 5000000
+ 1869324 words of memory out of 5000000
  33806 multiletter control sequences out of 15000+600000
  554820 words of font info for 104 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,77p,1204b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,12n,77p,1204b,439s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} <c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/Thomas/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-<<<<<<< HEAD
-Output written on CV_Lake_working.pdf (3 pages, 83355 bytes).
+Output written on CV_Lake_working.pdf (3 pages, 83316 bytes).
 PDF statistics:
  115 PDF objects out of 1000 (max. 8388607)
  80 compressed objects within 1 object stream
-=======
-Output written on CV_Lake_working.pdf (3 pages, 87212 bytes).
-PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
->>>>>>> 45a5702e21a72c63e89a979e6ad7a5a269bc250b
  16 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
