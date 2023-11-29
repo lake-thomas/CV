@@ -1,11 +1,11 @@
 ---
 title: "Curriculum Vitae"
 author: "Thomas A. Lake"
-email: Lakex055@umn.edu
+email: Talake2@ncsu.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: C:/users/thomas/desktop/CV/svm-latex-cv.tex
+    template: C:/users/tomla/Documents/CV/svm-latex-cv.tex
   html_document:
     df_print: paged
 fontfamily: mathpazo
@@ -19,10 +19,10 @@ header-includes:
 - \pagestyle{fancy}
 - \fancyfoot[CO,CE]{Curriculum Vitae}
 - \fancyfoot[LE,RO]{\thepage}
-jobtitle: PhD Candidate, University of Minnesota
+jobtitle: Postdoctoral Researcher, Center for Geospatial Analytics
 linkcolor: blue
 fontawesome: yes
-address: Department of Plant & Microbial Biology
+address: North Carolina State University
 urlcolor: blue
 ---
 <!-- I am using Steven V. Miller's CV template, available here: https://github.com/svmiller/svm-r-markdown-templates
@@ -36,10 +36,9 @@ Education
 \endgroup
 \end{center}
 
-
-**PhD Candidate, Plant & Microbial Biology** \hfill 2018-present  
+**PhD, Plant & Microbial Biology** \hfill 2018-2023  
 University of Minnesota Twin Cities, Minneapolis, MN  
-&nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Research focus:}}$ Improving predictive models of range expansion in invasive species  
+&nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Thesis:}}$ Improving predictive models of range expansion in invasive species  
 &nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Advisor:}}$ Dr. David Moeller  
 
 **BS, Conservation Biology** \hfill 2013-2017  
@@ -57,20 +56,22 @@ Research \& Teaching
 \end{center}
 \vspace{4pt}
 
-**Graduate Research Assistant**, University of Minnesota (PI: D. Moeller) \hfill 2021-present  
+**Postdoctoral Researcher**, North Carolina State University, Raleigh, NC \hfill 2023-present  
+
+**Graduate Research Assistant**, University of Minnesota \hfill 2021-2023  
 
 **Teaching Assistant**, "Plant, Algal, and Fungal Diversity and Adaptation" \hfill 2019 - 2020  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  University of Minnesota (PI: D. Moeller)  
 
-**Teaching Assistant**, "Foundations of Biology", University of Minnesota (PI: C. Kirkpatrick) \hfill 2019  
+**Teaching Assistant**, "Foundations of Biology", University of Minnesota \hfill 2019  
   
-**Researcher 1**, USDA ARS Cereal Disease Lab, St. Paul, MN (PI: J. Kolmer) \hfill 2017-2018  
+**Researcher 1**, USDA ARS Cereal Disease Lab, St. Paul, MN \hfill 2017-2018  
 
-**Teaching Assistant**, "Plant Immunity Gene Discovery", University of Minnesota (PI: F. Katagiri) \hfill 2017  
+**Teaching Assistant**, "Plant Immunity Gene Discovery", University of Minnesota \hfill 2017  
 
-**Undergraduate Research Assistant**, University of Minnesota (PI: D. Moeller) \hfill 2016-2017  
+**Undergraduate Research Assistant**, University of Minnesota \hfill 2016-2017  
 
-**Undergraduate Research Assistant**, University of Minnesota (PI: C. Chen) \hfill 2015-2016  
+**Undergraduate Research Assistant**, University of Minnesota \hfill 2015-2016  
 
 \vspace{4pt}
 
