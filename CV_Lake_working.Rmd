@@ -42,7 +42,7 @@ University of Minnesota Twin Cities, Minneapolis, MN
 &nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Advisor:}}$ Dr. David Moeller  
 
 **BS, Conservation Biology** \hfill 2013-2017  
-Minor Geographic Information Sciences  
+Minor: Geographic Information Sciences  
 University of Minnesota Twin Cities, Minneapolis, MN  
 
 \begin{center}\rule{6.5in}{0.4pt}\end{center}
@@ -86,6 +86,10 @@ Grants, Fellowships, \& Awards
 \endgroup
 \end{center}
 \vspace{4pt}
+
+**NASA-MSU Professional Enhancement Award**, NASA-Michigan State University \hfill 2024  
+&nbsp;&nbsp;&nbsp;&nbsp; $850. "Detecting invasive trees with computer vision"  
+&nbsp;&nbsp;&nbsp;&nbsp; Travel award for outstanding junior scholars.  
 
 **Doctoral Dissertation Research Fellowship**, University of Minnesota Graduate School  \hfill 2022-2023  
 &nbsp;&nbsp;&nbsp;&nbsp; $35,000. "Predicting biological invasions using remote sensing and artificial intelligence"  
@@ -141,6 +145,8 @@ Publications \& Presentations
 
 # Refereed Publications
 
+5\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge. Evolutionary Applications, 16(10), 1680-1696. [https://doi.org/10.1111/eva.13593](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13593)  
+
 4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation, 8(6), 875-889. [https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)  
 
 3\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. Journal of Biogeography, 48(7), 1693-1705. [https://doi.org/10.1111/jbi.14105](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14105)  
@@ -155,26 +161,26 @@ Publications \& Presentations
 
 # Manuscripts in Prep
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (in-prep). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge.  
-
 1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Inference of invasive species population dynamics with time series satellite imagery.  
 
 
 # Selected Presentations
 
-7\.&nbsp;&nbsp;**Lake, T. A.** Temporal Convolutional Neural Networks for Satellite Image Time Series Classification. Presentation. American Society of Photogrammetry and Remote Sensing Student Chapter. University of Minnesota. 11/2022.  
+8\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. & Meentemeyer, R. Invasive tree detection with AI and Google street view imagery. International Association for Landscape Ecology. Oklahoma City, OK. 04/2024.  
 
-6\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Presentation. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/2022.  
+7\.&nbsp;&nbsp;**Lake, T. A.** Temporal Convolutional Neural Networks for Satellite Image Time Series Classification. American Society of Photogrammetry and Remote Sensing. University of Minnesota. 11/2022.  
+
+6\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/2022.  
 
 5\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals important spatial differentiation. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/2022.  
 
 4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
 
-3\.&nbsp;&nbsp;**Lake, T. A.** Remotely sensed image segmentation approaches in ArcGIS. Presentation. American Society of Photogrammetry and Remote Sensing Student Chapter. University of Minnesota. 11/2021.  
+3\.&nbsp;&nbsp;**Lake, T. A.** Remotely sensed image segmentation approaches in ArcGIS. American Society of Photogrammetry and Remote Sensing. University of Minnesota. 11/2021.  
 
 2\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2019.  
 
-1\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Presentation. Joint Summit of the Minnesota Terrestrial Invasive Plants and Pests Center and Minnesota Department of Agriculture. 02/2019.  
+1\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Joint Summit of the Minnesota Terrestrial Invasive Plants and Pests Center and Minnesota Department of Agriculture. 02/2019.  
 
 \vspace{4pt}
 
@@ -211,7 +217,7 @@ Service \& Outreach
 
 &nbsp;&nbsp;&nbsp;&nbsp; Community Scientist, iNaturalist Contributor \hfill 2018-present  
 
-&nbsp;&nbsp;&nbsp;&nbsp; Minnesota Student's Cooperative, Coordinator \hfill 2018-present  
+&nbsp;&nbsp;&nbsp;&nbsp; Minnesota Student's Cooperative, Coordinator \hfill 2018-2023  
 
 \vspace{4pt}
 

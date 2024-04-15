@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.29)  29 NOV 2023 17:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.29)  15 APR 2024 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -494,17 +494,17 @@ File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) [1
 
 {c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 435--440
+Underfull \hbox (badness 10000) in paragraph at lines 446--451
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 442--449
+Underfull \hbox (badness 10000) in paragraph at lines 453--460
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 451--455
+Underfull \hbox (badness 10000) in paragraph at lines 462--466
 
  []
 
@@ -527,10 +527,10 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  79i,12n,93p,1204b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on CV_Lake_working.pdf (3 pages, 83038 bytes).
+Output written on CV_Lake_working.pdf (3 pages, 83573 bytes).
 PDF statistics:
- 114 PDF objects out of 1000 (max. 8388607)
- 80 compressed objects within 1 object stream
+ 115 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
  16 named destinations out of 1000 (max. 500000)
  49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
