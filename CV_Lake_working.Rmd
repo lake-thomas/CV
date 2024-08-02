@@ -163,6 +163,8 @@ Publications \& Presentations
 
 1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Inference of invasive species population dynamics with time series satellite imagery.  
 
+2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Urban tree detection, classification, and geolocation with deep learning and street-view images.  
+
 
 # Selected Presentations
 
@@ -249,8 +251,9 @@ University of Minnesota\\
 flag0010@umn.edu\\
 \end{minipage}
 \begin{minipage}[t]{0.33\textwidth}
-Rob Venette\\
-Adjunct Associate Professor\\
-Director, Minnesota Invasive Terrestrial Plants and Pest Center\\
-venet001@umn.edu\\
+Ross Meentemeyer\\
+Professor\\
+Director, Geospatial Analytics\\
+North Carolina State University\\
+rkmeente@ncsu.edu\\
 \end{minipage}
