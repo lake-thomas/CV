@@ -1,1 +1,1 @@
-CV formatted in R Markdown + LaTeX
+Personal CV formatted in R Markdown + LaTeX
