@@ -5,23 +5,24 @@ email: Talake2@ncsu.edu
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: C:/users/tomla/Documents/CV/svm-latex-cv.tex
+    template: "C:/Users/tomla/Downloads/CV/svm-latex-cv.tex"
   html_document:
     df_print: paged
+  word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=0.7in
-github: lake-thomas
+github: "lake-thomas"
 header-includes:
 - \usepackage{fancyhdr}
 - \usepackage{lipsum}
 - \pagestyle{fancy}
 - \fancyfoot[CO,CE]{Curriculum Vitae}
 - \fancyfoot[LE,RO]{\thepage}
-jobtitle: Postdoctoral Researcher, Center for Geospatial Analytics
+jobtitle: Postdoctoral Research Scholar, Center for Geospatial Analytics
 linkcolor: blue
-fontawesome: yes
+fontawesome: true
 address: North Carolina State University
 urlcolor: blue
 ---
@@ -36,12 +37,16 @@ Education
 \endgroup
 \end{center}
 
-**PhD, Plant & Microbial Biology** \hfill 2018-2023  
+**Postdoctoral Research Scholar** \hfill 2023-present  
+North Carolina State University, Center for Geospatial Analytics, Raleigh, NC  
+&nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Advisor:}}$ Dr. Ross Meentemeyer  
+
+**Ph.D., Plant & Microbial Biology** \hfill 2018-2023  
 University of Minnesota Twin Cities, Minneapolis, MN  
 &nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Thesis:}}$ Improving predictive models of range expansion in invasive species  
 &nbsp;&nbsp;&nbsp;&nbsp;$\text{\underline{Advisor:}}$ Dr. David Moeller  
 
-**BS, Conservation Biology** \hfill 2013-2017  
+**B.S., Conservation Biology** \hfill 2013-2017  
 Minor: Geographic Information Sciences  
 University of Minnesota Twin Cities, Minneapolis, MN  
 
@@ -56,22 +61,18 @@ Research \& Teaching
 \end{center}
 \vspace{4pt}
 
-**Postdoctoral Researcher**, North Carolina State University, Raleigh, NC \hfill 2023-present  
-
 **Graduate Research Assistant**, University of Minnesota \hfill 2021-2023  
 
-**Teaching Assistant**, "Plant, Algal, and Fungal Diversity and Adaptation" \hfill 2019 - 2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  University of Minnesota (PI: D. Moeller)  
+**Graduate Teaching Assistant**, Plant, Algal, and Fungal Diversity and Adaptation \hfill 2019-2020  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  University of Minnesota
 
-**Teaching Assistant**, "Foundations of Biology", University of Minnesota \hfill 2019  
+**Graduate Teaching Assistant**, Foundations of Biology, University of Minnesota \hfill 2019  
   
 **Researcher 1**, USDA ARS Cereal Disease Lab, St. Paul, MN \hfill 2017-2018  
 
-**Teaching Assistant**, "Plant Immunity Gene Discovery", University of Minnesota \hfill 2017  
+**Undergraduate Teaching Assistant**, Plant Immunity Gene Discovery, University of Minnesota \hfill 2017  
 
-**Undergraduate Research Assistant**, University of Minnesota \hfill 2016-2017  
-
-**Undergraduate Research Assistant**, University of Minnesota \hfill 2015-2016  
+**Undergraduate Research Assistant**, UROP, University of Minnesota \hfill 2015-2017  
 
 \vspace{4pt}
 
@@ -88,46 +89,42 @@ Grants, Fellowships, \& Awards
 \vspace{4pt}
 
 **NASA-MSU Professional Enhancement Award**, NASA-Michigan State University \hfill 2024  
-&nbsp;&nbsp;&nbsp;&nbsp; $850. "Detecting invasive trees with computer vision"  
+&nbsp;&nbsp;&nbsp;&nbsp; $1,000. Detecting invasive trees with computer vision.  
 &nbsp;&nbsp;&nbsp;&nbsp; Travel award for outstanding junior scholars.  
 
 **Doctoral Dissertation Research Fellowship**, University of Minnesota Graduate School  \hfill 2022-2023  
-&nbsp;&nbsp;&nbsp;&nbsp; $35,000. "Predicting biological invasions using remote sensing and artificial intelligence"  
+&nbsp;&nbsp;&nbsp;&nbsp; $35,000. Predicting biological invasions using remote sensing and artificial intelligence.  
 &nbsp;&nbsp;&nbsp;&nbsp; Competitive internal fellowship, stipend, and tuition for "most accomplsihed PhD candidates".  
 
 **Climate Innovation Challenge**, Google \hfill 2022-2023  
-&nbsp;&nbsp;&nbsp;&nbsp; "Remote sensing biological invasions using high resolution imagery and deep learning"  
+&nbsp;&nbsp;&nbsp;&nbsp; Remote sensing of biological invasions using high resolution imagery and deep learning.  
 &nbsp;&nbsp;&nbsp;&nbsp; $13,500 equivalent in Google Cloud research credits.  
 
 **Hatch Grant**, USDA National Institute of Food and Agriculture (PI: D. Moeller) \hfill 2021-2023  
-&nbsp;&nbsp;&nbsp;&nbsp; "Remote sensing biological invasions: Using satellite imagery to detect and monitor  
-&nbsp;&nbsp;&nbsp;&nbsp; $65000. "Remote sensing biological invasions: Using satellite imagery to detect and monitor  
-&nbsp;&nbsp;&nbsp;&nbsp; leafy spurge population dynamics across the Northern Great Plains"  
+&nbsp;&nbsp;&nbsp;&nbsp; Remote sensing biological invasions: Using satellite imagery to detect and monitor  
+&nbsp;&nbsp;&nbsp;&nbsp; leafy spurge population dynamics across the Northern Great Plains.  
 &nbsp;&nbsp;&nbsp;&nbsp; Contributed to grant writing and submission, awarded $65,000 for research.  
 
 **Bill Dahl Graduate Student Research Award**, Botanical Society of America \hfill 2020-2021  
-&nbsp;&nbsp;&nbsp;&nbsp; $1,500. "Does adaptation facilitate or impede future plant invasions"  
+&nbsp;&nbsp;&nbsp;&nbsp; $1,500. Does adaptation facilitate or impede future plant invasions?  
 &nbsp;&nbsp;&nbsp;&nbsp; Award to support PhD field research in adaptation and climate change study.  
 
 **Bell Museum Dayton Natural History Award**, University of Minnesota \hfill 2020-2021  
-&nbsp;&nbsp;&nbsp;&nbsp; $2,500. "Does adaptive genetic differentiation facilitate or impede future plant invasions"  
-&nbsp;&nbsp;&nbsp;&nbsp; Award supporting PhD field research and conference travel.  
+&nbsp;&nbsp;&nbsp;&nbsp; $2,500. Does adaptive genetic differentiation facilitate or impede future plant invasions?  
+&nbsp;&nbsp;&nbsp;&nbsp; Award to support PhD field research and conference travel.  
 
 **Earth Observation Grant**, European Space Agency \hfill 2020-2021  
-&nbsp;&nbsp;&nbsp;&nbsp; "Population monitoring of invasive species using satellite imagery"  
-&nbsp;&nbsp;&nbsp;&nbsp; $12,000 equivalent in access to high resolution satellite imagery.  
+&nbsp;&nbsp;&nbsp;&nbsp; Population monitoring of invasive species using satellite imagery.  
+&nbsp;&nbsp;&nbsp;&nbsp; $12,000 equivalent in to access high resolution satellite imagery.  
 
 **Accelerated Data Science Grant**, NVIDIA \hfill 2019-2020  
-&nbsp;&nbsp;&nbsp;&nbsp; $1,000. Gifted graphics processing unit (GPU) to accelerate deep learning model development.  
+&nbsp;&nbsp;&nbsp;&nbsp; $1,000. Awarded graphics processing unit (GPU) for deep learning model development.  
 
-**Grants-in-Aid**, University of Minnesota \hfill 2019-2022  
-&nbsp;&nbsp;&nbsp;&nbsp; $2,000 total. Four small internal grants supporting field research and travel.  
-
-**Conference Travel Awards**, University of Minnesota \hfill 2018-2022  
-&nbsp;&nbsp;&nbsp;&nbsp; $3,000 total. Three awards for domestic and international conference travel.  
+**Grants-in-Aid**, University of Minnesota \hfill 2018-2022  
+&nbsp;&nbsp;&nbsp;&nbsp; $5,000 total. Four small internal grants supporting field research and travel.  
 
 **Undergraduate Research Opportunity Program**, University of Minnesota \hfill 2016-2017  
-&nbsp;&nbsp;&nbsp;&nbsp; $3,600. Pilot award for independent research in plant breeding and cytogenetics.
+&nbsp;&nbsp;&nbsp;&nbsp; $3,600. Award for undergraduate research in plant breeding and cytogenetics.
 
 \vspace{4pt}
 
@@ -145,44 +142,35 @@ Publications \& Presentations
 
 # Refereed Publications
 
-5\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge. Evolutionary Applications, 16(10), 1680-1696. [https://doi.org/10.1111/eva.13593](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13593)  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge. Evolutionary Applications, 16(10), 1680-1696. [https://doi.org/10.1111/eva.13593](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13593)  
 
-4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation, 8(6), 875-889. [https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Remote Sensing in Ecology and Conservation, 8(6), 875-889. [https://doi.org/10.1002/rse2.288](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.288)  
 
 3\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. Journal of Biogeography, 48(7), 1693-1705. [https://doi.org/10.1111/jbi.14105](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.14105)  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. Diversity and Distributions, 26(12), 1767-1779. [https://doi.org/10.1111/ddi.13161](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13161)  
+4\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. Diversity and Distributions, 26(12), 1767-1779. [https://doi.org/10.1111/ddi.13161](https://onlinelibrary.wiley.com/doi/full/10.1111/ddi.13161)  
 
-1\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Scientific Reports, 9(1), 1-12. [https://doi.org/10.1038/s41598-018-38054-9](https://www.nature.com/articles/s41598-018-38054-9)  
-
-# Non-refereed Articles
-
-1\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2019). MITPPC Practical Guide to Species Distribution Modeling in R. Minnesota Invasive Terrestrial Plants and Pests Center.  
+5\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Scientific Reports, 9(1), 1-12. [https://doi.org/10.1038/s41598-018-38054-9](https://www.nature.com/articles/s41598-018-38054-9)  
 
 # Manuscripts in Prep
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Inference of invasive species population dynamics with time series satellite imagery.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Using satellite imagery and deep learning to improve predictive models of invasive species distributions.  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Urban tree detection, classification, and geolocation with deep learning and street-view images.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Invasive tree detection, classification, and geolocation with Google street-view images.  
 
+3\.&nbsp;&nbsp;Sanchez, F., **Lake, T. A.**, Galvis, J.A., Jones, C. M., & Machado, G. (in-prep). Predicting commercial swine premise locations using deep learning and aerial imagery to improve disease monitoring and surveillance.  
 
 # Selected Presentations
 
-8\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. & Meentemeyer, R. Invasive tree detection with AI and Google street view imagery. International Association for Landscape Ecology. Oklahoma City, OK. 04/2024.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. & Meentemeyer, R. Detecting invasive trees with computer vision. International Association of Landscape Ecology (IALE). Oklahoma City, OK. 04/2024.  
 
-7\.&nbsp;&nbsp;**Lake, T. A.** Temporal Convolutional Neural Networks for Satellite Image Time Series Classification. American Society of Photogrammetry and Remote Sensing. University of Minnesota. 11/2022.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
 
-6\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/2022.  
+3\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
 
-5\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals important spatial differentiation. Upper Midwest Invasive Species Conference, Green Bay, Wisconsin. 10/2022.  
+4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
 
-4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. Presentation. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
-
-3\.&nbsp;&nbsp;**Lake, T. A.** Remotely sensed image segmentation approaches in ArcGIS. American Society of Photogrammetry and Remote Sensing. University of Minnesota. 11/2021.  
-
-2\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2019.  
-
-1\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. Joint Summit of the Minnesota Terrestrial Invasive Plants and Pests Center and Minnesota Department of Agriculture. 02/2019.  
+5\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2020.  
 
 \vspace{4pt}
 
@@ -197,29 +185,20 @@ Service \& Outreach
 \end{center}
 \vspace{4pt}
 
-# Undergraduate Student Mentorship
+# Mentorship
 
-&nbsp;&nbsp;&nbsp;&nbsp; Lindsey Howell, CFANS Mentor Program, University of Minnesota \hfill 2022  
+&nbsp;&nbsp;&nbsp;&nbsp; Lindsey Howell^1^, Joan Barreto Ortiz^2^, Alina Smolskaya^2^, Jessica Zhang^1^, Nolan Kerr^1^, Christina Berg^1^  
 
-&nbsp;&nbsp;&nbsp;&nbsp; Joan Barreto Ortiz, CBS Field Guides Mentor Program, University of Minnesota \hfill 2022  
+^1^Undergraduate student  
+^2^Graduate student  
 
-&nbsp;&nbsp;&nbsp;&nbsp; Alina Smolskaya, CFANS Mentor Program, University of Minnesota \hfill 2021  
+CFANS Mentor Program, University of Minnesota \hfill 2018-2022  
 
-&nbsp;&nbsp;&nbsp;&nbsp; Jessica Zhang, CFANS Mentor Program, University of Minnesota \hfill 2020  
+CFANS Mentor Matching Committee, University of Minnesota \hfill 2021, 2022
 
-&nbsp;&nbsp;&nbsp;&nbsp; Nolan Kerr, CFANS Mentor Program, University of Minnesota \hfill 2019  
+# Peer Reviews
 
-&nbsp;&nbsp;&nbsp;&nbsp; Christina Berg, CFANS Mentor Program, University of Minnesota \hfill 2018  
-
-# Broader Community
-
-&nbsp;&nbsp;&nbsp;&nbsp; American Society of Photogrammetry and Remote Sensing Student Chapter, Coordinator \hfill 2020-present  
-
-&nbsp;&nbsp;&nbsp;&nbsp; University of Minnesota CFANS Mentor Program Matching Committee \hfill 2022-present  
-
-&nbsp;&nbsp;&nbsp;&nbsp; Community Scientist, iNaturalist Contributor \hfill 2018-present  
-
-&nbsp;&nbsp;&nbsp;&nbsp; Minnesota Student's Cooperative, Coordinator \hfill 2018-2023  
+&nbsp;&nbsp;&nbsp;&nbsp; Ecological Applications, Journal of Ecology, Diversity and Distributions, GIScience & Remote Sensing  
 
 \vspace{4pt}
 
@@ -242,13 +221,11 @@ University of Minnesota\\
 moeller@umn.edu\\
 \end{minipage}
 \begin{minipage}[t]{0.33\textwidth}
-Lex Flagel\\
-Senior Data Scientist\\
-Gencove\\
-Adjunct Professor\\
+Yaniv Brandvain\\
+Associate Professor\\
 Plant and Microbial Biology\\
 University of Minnesota\\
-flag0010@umn.edu\\
+ybrandva@umn.edu\\
 \end{minipage}
 \begin{minipage}[t]{0.33\textwidth}
 Ross Meentemeyer\\
