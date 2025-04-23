@@ -154,23 +154,29 @@ Publications \& Presentations
 
 # Manuscripts in Prep
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Using satellite imagery and deep learning to improve predictive models of invasive species distributions.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Two decades of satellite images reveals the spatial and temporal dynamics of leafy spurge invasion and improves species distribution models.  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Invasive tree detection, classification, and geolocation with Google street-view images.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Best practices and challenges for urban tree detectiono, classification, and geolocation with street-level images and computer vision.  
 
 3\.&nbsp;&nbsp;Sanchez, F., **Lake, T. A.**, Galvis, J.A., Jones, C. M., & Machado, G. (in-prep). Predicting commercial swine premise locations using deep learning and aerial imagery to improve disease monitoring and surveillance.  
 
 # Selected Presentations
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. & Meentemeyer, R. Detecting invasive trees with computer vision. International Association of Landscape Ecology (IALE). Oklahoma City, OK. 04/2024.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Two decades of satellite images reveals the spatial and temporal dynamics of leafy spurge invasion and improves species distribution models. Ecological Forecasting Initiative Conference (EFI). Blacksburg, VA. 05/2025.  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. Mapping species occurrences with street-view remote sensing and computer vision. International Association of Landscape Ecology (IALE). Raleigh, NC. 04/2025.  
 
-3\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
+3\.&nbsp;&nbsp;**Lake, T. A.** Deep learning, an introduction and applications. Invited Lecturer. Center for Geospatial Analytics. North Carolina State University. 01/2025.
 
-4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
+4\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. M., & Meentemeyer, R. K. Detecting invasive trees with computer vision. International Association of Landscape Ecology (IALE). Oklahoma City, OK. 04/2024.  
 
-5\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2020.  
+5\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
+
+6\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
+
+7\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
+
+8\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2020.  
 
 \vspace{4pt}
 
@@ -198,7 +204,7 @@ CFANS Mentor Matching Committee, University of Minnesota \hfill 2021, 2022
 
 # Peer Reviews
 
-&nbsp;&nbsp;&nbsp;&nbsp; Ecological Applications, Journal of Ecology, Diversity and Distributions, GIScience & Remote Sensing  
+&nbsp;&nbsp;&nbsp;&nbsp; Ecological Applications, Journal of Ecology, Diversity and Distributions, GIScience & Remote Sensing, Urban Ecosystems, Global Ecology and Conservation  
 
 \vspace{4pt}
 
