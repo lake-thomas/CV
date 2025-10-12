@@ -94,7 +94,7 @@ Grants, Fellowships, \& Awards
 
 **Doctoral Dissertation Research Fellowship**, University of Minnesota Graduate School  \hfill 2022-2023  
 &nbsp;&nbsp;&nbsp;&nbsp; $35,000. Predicting biological invasions using remote sensing and artificial intelligence.  
-&nbsp;&nbsp;&nbsp;&nbsp; Competitive internal fellowship, stipend, and tuition for "most accomplsihed PhD candidates".  
+&nbsp;&nbsp;&nbsp;&nbsp; Competitive internal fellowship, stipend, and tuition for "most accomplished PhD candidates".  
 
 **Climate Innovation Challenge**, Google \hfill 2022-2023  
 &nbsp;&nbsp;&nbsp;&nbsp; Remote sensing of biological invasions using high resolution imagery and deep learning.  
@@ -115,7 +115,7 @@ Grants, Fellowships, \& Awards
 
 **Earth Observation Grant**, European Space Agency \hfill 2020-2021  
 &nbsp;&nbsp;&nbsp;&nbsp; Population monitoring of invasive species using satellite imagery.  
-&nbsp;&nbsp;&nbsp;&nbsp; $12,000 equivalent in to access high resolution satellite imagery.  
+&nbsp;&nbsp;&nbsp;&nbsp; $12,000 equivalent to access high-resolution satellite imagery.  
 
 **Accelerated Data Science Grant**, NVIDIA \hfill 2019-2020  
 &nbsp;&nbsp;&nbsp;&nbsp; $1,000. Awarded graphics processing unit (GPU) for deep learning model development.  
@@ -154,15 +154,15 @@ Publications \& Presentations
 
 # Manuscripts in Prep
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Two decades of satellite images reveals the spatial and temporal dynamics of leafy spurge invasion and improves species distribution models.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in-prep). Two decades of satellite images reveal the spatial and temporal dynamics of leafy spurge invasion and improve species distribution models. *bioRxiv*. https://www.biorxiv.org/content/10.1101/2025.05.09.653185v1  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Best practices and challenges for urban tree detectiono, classification, and geolocation with street-level images and computer vision.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in-prep). Best practices and challenges for urban tree detection, classification, and geolocation with street-level images across North American cities. *bioRxiv*. https://www.biorxiv.org/content/10.1101/2025.10.09.681424v1  
 
 3\.&nbsp;&nbsp;Sanchez, F., **Lake, T. A.**, Galvis, J.A., Jones, C. M., & Machado, G. (in-prep). Predicting commercial swine premise locations using deep learning and aerial imagery to improve disease monitoring and surveillance.  
 
 # Selected Presentations
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Two decades of satellite images reveals the spatial and temporal dynamics of leafy spurge invasion and improves species distribution models. Ecological Forecasting Initiative Conference (EFI). Blacksburg, VA. 05/2025.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Two decades of satellite images reveal the spatial and temporal dynamics of leafy spurge invasion and improves species distribution models. Ecological Forecasting Initiative Conference (EFI). Blacksburg, VA. 05/2025.  
 
 2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. Mapping species occurrences with street-view remote sensing and computer vision. International Association of Landscape Ecology (IALE). Raleigh, NC. 04/2025.  
 
@@ -174,7 +174,7 @@ Publications \& Presentations
 
 6\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
 
-7\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 8/2022.  
+7\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Joint Annual Meeting of the Ecological Society of America (ESA) and Canadian Society for Ecology & Evolution (CSEE), Montreal, Canada. 08/2022.  
 
 8\.&nbsp;&nbsp;**Lake, T. A.** Ecology and Impacts of Invasive Species. Invited Lecturer. Ecology, Evolution, and Behavior. University of Minnesota. 10/2020.  
 
@@ -193,7 +193,7 @@ Service \& Outreach
 
 # Mentorship
 
-&nbsp;&nbsp;&nbsp;&nbsp; Lindsey Howell^1^, Joan Barreto Ortiz^2^, Alina Smolskaya^2^, Jessica Zhang^1^, Nolan Kerr^1^, Christina Berg^1^  
+&nbsp;&nbsp;&nbsp;&nbsp; Brennen Farrell ^1^, Lindsey Howell^1^, Jessica Zhang^1^, Nolan Kerr^1^, Christina Berg^1^, Felipe Sanchez^2^, Brit Laginhas^2^, Joan Barreto Ortiz^2^, Alina Smolskaya^2^  
 
 ^1^Undergraduate student  
 ^2^Graduate student  
