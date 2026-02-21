@@ -38,7 +38,7 @@ Professional Summary
 \endgroup
 \end{center}
 
-Computational plant scientist and machine learning researcher with 7+ years of experience. Expertise in image-based predictive models, deep learning workflows, and geospatial analytics for large-scale ecological, agricultural, and plant-trait imaging datasets. Proven ability to design experiments, analyze multimodal data, and deliver insights for stakeholders. Experienced collaborator across computational, biological, and academic teams.  
+Machine learning and AI researcher specializing in geospatial and computer vision applications for agriculture and environmental systems. Experience developing predictive models using remote sensing and multimodal data to improve decision-making in plant health, invasive species management, and agricultural risk forecasting. Experience leading interdisciplinary research, securing competitive funding, and translating research into applications.
 
 \begin{center}\rule{6.5in}{0.4pt}\end{center}
 
@@ -69,23 +69,47 @@ University of Minnesota Twin Cities, Minneapolis, MN
 \begin{center}
 \begingroup
 \fontfamily{ppl}\fontsize{18}{20}\selectfont
-Research \& Teaching
+Academic Appointments
 \endgroup
 \end{center}
 \vspace{4pt}
 
-**Graduate Research Assistant**, Ph.D. Candidate. University of Minnesota \hfill 2021-2023  
+**Postdoctoral Research Scholar**, Center for Geospatial Analytics, North Carolina State University \hfill 2023–present  
+&nbsp;&nbsp;&nbsp;&nbsp;Developed and lead research on AI-enabled surveillance systems for agricultural risk  
+&nbsp;&nbsp;&nbsp;&nbsp;forecasting and invasive species monitoring. Supervised graduate and undergraduate researchers,  
+&nbsp;&nbsp;&nbsp;&nbsp;and collaborated with teams across ecology, computer science, and plant sciences.
 
-**Graduate Teaching Assistant**, Plant, Algal, and Fungal Diversity and Adaptation \hfill 2019-2020  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  University of Minnesota
+**Graduate Research Assistant**, Department of Plant & Microbial Biology, University of Minnesota \hfill 2018–2023  
+&nbsp;&nbsp;&nbsp;&nbsp;Developed predictive models of invasive species spread using genomic, climatic, and satellite data.  
+&nbsp;&nbsp;&nbsp;&nbsp;Applied models to improve ecological forecasting under climate change scenarios.  
+
+**Researcher I**, USDA Agricultural Research Service (ARS), Cereal Disease Laboratory, St. Paul, MN \hfill 2017–2018  
+&nbsp;&nbsp;&nbsp;&nbsp;Conducted applied research in plant pathology for disease gene discovery.  
+&nbsp;&nbsp;&nbsp;&nbsp;Collaborated with federal scientists on agricultural biosecurity and crop health research.
+
+\vspace{4pt}
+\begin{center}\rule{6.5in}{0.4pt}\end{center}
+
+\vspace{4pt}
+\begin{center}
+\begingroup
+\fontfamily{ppl}\fontsize{18}{20}\selectfont
+Teaching Experience
+\endgroup
+\end{center}
+\vspace{4pt}
+
+**Invited Lecturer**, Deep Learning: Introduction and Applications, NC State \hfill 2025  
+&nbsp;&nbsp;&nbsp;&nbsp;Delivered invited seminar introducing neural networks, computer vision, and applied AI workflows  
+&nbsp;&nbsp;&nbsp;&nbsp;to undergraduate and graduate students in geospatial analytics.  
+
+**Graduate Teaching Assistant**, Plant, Algal, Fungal Diversity and Adaptation, University of Minnesota \hfill 2020–2021  
+&nbsp;&nbsp;&nbsp;&nbsp;Led laboratory sections and facilitated discussions on plant evolution, biodiversity, and adaptation.  
+&nbsp;&nbsp;&nbsp;&nbsp;Mentored students in experimental design, statistical analysis, and scientific communication.
 
 **Graduate Teaching Assistant**, Foundations of Biology, University of Minnesota \hfill 2019  
-  
-**Researcher 1**, USDA ARS Cereal Disease Lab, St. Paul, MN \hfill 2017-2018  
-
-**Undergraduate Teaching Assistant**, Plant Immunity Gene Discovery, University of Minnesota \hfill 2017  
-
-**Undergraduate Research Assistant**, UROP, University of Minnesota \hfill 2015-2017  
+&nbsp;&nbsp;&nbsp;&nbsp;Instructed undergraduate laboratory sections (60+ students) covering core biological principles.  
+&nbsp;&nbsp;&nbsp;&nbsp;Integrated quantitative reasoning and data analysis into laboratory instruction.  
 
 \vspace{4pt}
 
@@ -101,6 +125,12 @@ Grants, Fellowships, \& Awards
 \end{center}
 \vspace{4pt}
 
+**Deep Learning Models for Tree of Heaven, a Key Host for Spotted Lanternfly**, USDA AFRI \hfill 2025  
+&nbsp;&nbsp;&nbsp;&nbsp; (in review; $300,000). Improving species distribution models with high resolution imagery (PI).  
+
+**AI Survey Tools for Detecting Tree Hosts of Invasive Pests and Pathogens**, USDA APHIS \hfill 2025  
+&nbsp;&nbsp;&nbsp;&nbsp; (in review; $165,000). Developing computer visions models to map tree species distributions (co-PI).  
+
 **NASA-MSU Professional Enhancement Award**, NASA-Michigan State University \hfill 2024  
 &nbsp;&nbsp;&nbsp;&nbsp; $1,000. Supported travel and research on applying computer vision models to street-view imagery.  
 
@@ -113,7 +143,7 @@ Grants, Fellowships, \& Awards
 
 **Hatch Grant**, USDA National Institute of Food and Agriculture \hfill 2021-2023  
 &nbsp;&nbsp;&nbsp;&nbsp; Satellite image time series and classification models to track invasive species across landscapes.  
-&nbsp;&nbsp;&nbsp;&nbsp; Contributed to grant writing and submission, awarded $65,000 for research.  
+&nbsp;&nbsp;&nbsp;&nbsp; Co-authored funded USDA Hatch proposal ($65,000) supporting satellite time-series modeling. 
 
 **Bell Museum Dayton Natural History Award**, University of Minnesota \hfill 2020-2021  
 &nbsp;&nbsp;&nbsp;&nbsp; $2,500. Does adaptive genetic differentiation facilitate or impede future plant invasions?  
@@ -147,26 +177,25 @@ Publications \& Presentations
 \end{center}
 \vspace{4pt}
 
-
 # Refereed Publications
 
-1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge. *Evolutionary Applications*, 16(10), 1680-1696.  
+1\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (2026). Continental-scale computer vision models reveal generalizable patterns and pitfalls for urban tree inventories with street-view images. *ISPRS Open Journal of Photogrammetry and Remote Sensing*, 19(1). doi: 10.1016/j.ophoto.2026.10012.  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. *Remote Sensing in Ecology and Conservation*, 8(6), 875-889.  
+2\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., Flagel, L. E., & Moeller, D. A. (2023). Chronosequence of invasion reveals minimal losses of genomic diversity, niche expansion, and trait divergence in the polyploid, leafy spurge. *Evolutionary Applications*, 16(10), 1680-1696.  
 
-3\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. *Journal of Biogeography*, 48(7), 1693-1705.  
+3\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. (2022). Deep learning detects invasive plant species across complex landscapes using Worldview‐2 and Planetscope satellite imagery. *Remote Sensing in Ecology and Conservation*, 8(6), 875-889.  
 
-4\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. *Diversity and Distributions*, 26(12), 1767-1779.  
+4\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. (2021). Improving predictions of range expansion for invasive species using joint species distribution models and surrogate co‐occurring species. *Journal of Biogeography*, 48(7), 1693-1705.  
 
-5\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. *Nature Scientific Reports*, 9(1), 1-12.  
+5\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (2020). Predicting range expansion of invasive species: Pitfalls and best practices for obtaining biologically realistic projections. *Diversity and Distributions*, 26(12), 1767-1779.  
+
+6\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, Tiffin, P., & Moeller, D. A. (2019). Species distribution models throughout the invasion history of Palmer amaranth predict regions at risk of future invasion and reveal challenges with modeling rapidly shifting geographic ranges. *Nature Scientific Reports*, 9(1), 1-12.  
 
 # Manuscripts in Review
 
 1\.&nbsp;&nbsp;**Lake, T. A.**, Runquist, R. D. B., & Moeller, D. A. (in review). Two decades of satellite images reveal the spatial and temporal dynamics of leafy spurge invasion and improve species distribution models. *bioRxiv*.  
 
-2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. (in review). Continental-scale computer vision models reveal generalizable patterns and pitfalls for urban tree inventories with street-view images. *bioRxiv*.  
-
-3\.&nbsp;&nbsp;Sanchez, F., **Lake, T. A.**, Galvis, J.A., Jones, C. M., & Machado, G. (in review). Predicting the spatial distribution and demographics of commercial swine farms in the United States. *Arxiv*.  
+2\.&nbsp;&nbsp;Sanchez, F., **Lake, T. A.**, Galvis, J.A., Jones, C. M., & Machado, G. (in review). Predicting the spatial distribution and demographics of commercial swine farms in the United States. *BioRxiv*.  
 
 # Selected Presentations
 
@@ -174,13 +203,11 @@ Publications \& Presentations
 
 2\.&nbsp;&nbsp;**Lake, T. A.**, Laginhas, B. B., Jones, C. M., & Meentemeyer, R. K. Mapping species occurrences with street-view remote sensing and computer vision. International Association of Landscape Ecology (IALE). Raleigh, NC. 04/2025.  
 
-3\.&nbsp;&nbsp;**Lake, T. A.** Deep learning, an introduction and applications. Invited Lecturer. Center for Geospatial Analytics. North Carolina State University. 01/2025.
+3\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. M., & Meentemeyer, R. K. Detecting tree species with computer vision and street-view imagery. International Association of Landscape Ecology (IALE). Oklahoma City, OK. 04/2024.  
 
-4\.&nbsp;&nbsp;**Lake, T. A.**, Jones, C. M., & Meentemeyer, R. K. Detecting tree species with computer vision and street-view imagery. International Association of Landscape Ecology (IALE). Oklahoma City, OK. 04/2024.  
+4\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
 
-5\.&nbsp;&nbsp;**Lake, T. A.**, Briscoe Runquist, R. D., & Moeller, D. A. Detecting invasive plant species across complex landscapes using satellite imagery and deep learning. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
-
-6\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
+5\.&nbsp;&nbsp;Briscoe Runquist, R. D., **Lake, T. A.**, & Moeller, D. A. Landscape genetics of Common Tansy reveals spatial genetic differentiation. Upper Midwest Invasive Species Conference, Green Bay, WI. 10/2022.  
 
 
 \vspace{4pt}
@@ -204,7 +231,7 @@ Technical Skills \& Competencies
 
 **Cloud & HPC:** Google Cloud, HPC environments, MLOps (W&B), Model versioning, Tb-scale image analysis
 
-**Data Engineering:** ETL workflows, Data harmonization, Large-scale batch processing, Model inference pipelines  
+**Data Engineering:** CI/CD workflows, Data harmonization, Large-scale batch processing, Model inference pipelines  
 
 **Software & DevOps Tools:** Conda environments, VS Code, Jupyter, Reproducible research workflows  
 
@@ -223,8 +250,9 @@ Service \& Outreach
 
 # Mentorship
 
-&nbsp;&nbsp;&nbsp;&nbsp; Undergraduates: Brennen Farrell, Lindsey Howell, Jessica Zhang, Nolan Kerr, Christina Berg  
-&nbsp;&nbsp;&nbsp;&nbsp; Graduates: Felipe Sanchez, Brit Laginhas, Joan Barreto Ortiz, Alina Smolskaya  
+&nbsp;&nbsp;&nbsp;&nbsp; Mentored 6 undergraduate and 5 graduate students on plant biology and ecological forecasting.  
+&nbsp;&nbsp;&nbsp;&nbsp; Undergraduates: Promit Saha, Brennen Farrell, Lindsey Howell, Jessica Zhang, Nolan Kerr, Christina Berg  
+&nbsp;&nbsp;&nbsp;&nbsp; Graduates: Mark Feinberg, Felipe Sanchez, Brit Laginhas, Joan Barreto Ortiz, Alina Smolskaya  
 
 CFANS Mentor Program, University of Minnesota \hfill 2018-2022  
 

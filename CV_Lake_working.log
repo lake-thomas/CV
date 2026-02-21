@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.29)  9 DEC 2025 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.29)  21 FEB 2026 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -498,22 +498,22 @@ LaTeX Font Info:    Trying to load font information for T1+ppl on input line 133
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ) [1
 
-{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 454--459
+{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 511--516
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 461--466
+Underfull \hbox (badness 10000) in paragraph at lines 518--523
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 468--473
+Underfull \hbox (badness 10000) in paragraph at lines 525--530
 
  []
 
-[3] 
+[4] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./CV_Lake_working.aux)
  ***********
@@ -524,18 +524,18 @@ Package rerunfilecheck Info: File `CV_Lake_working.out' has not changed.
 (rerunfilecheck)             Checksum: 85F7C7CBE13278E92A50C92155C0E557;665.
  ) 
 Here is how much of TeX's memory you used:
- 13809 strings out of 476227
- 216955 string characters out of 5795097
+ 13810 strings out of 476227
+ 216961 string characters out of 5795097
  1943558 words of memory out of 5000000
  35516 multiletter control sequences out of 15000+600000
  603327 words of font info for 112 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 79i,11n,93p,1204b,444s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_Lake_working.pdf (3 pages, 98028 bytes).
+ 79i,12n,93p,1204b,494s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/tomla/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on CV_Lake_working.pdf (4 pages, 97899 bytes).
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
- 74 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
+ 75 compressed objects within 1 object stream
+ 15 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
